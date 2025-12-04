@@ -300,9 +300,9 @@ NOTE: For each project we are going to create two types of repositories.
       2. jio-release
 
 NOTE: Each repository we have separate URL
-  
-    http://52.66.243.194:8081/repository/jio-release/
-    http://52.66.243.194:8081/repository/jio-snapshot/
+   
+http://13.127.243.181:8081/repository/bio-release/
+http://13.127.243.181:8081/repository/bio-snapshot/
 
 
 
